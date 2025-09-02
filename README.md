@@ -2,9 +2,10 @@
 
 📚我运营着一个公众号：**做实验的研究牲**，主要分享：
 
-- 组会向我老板汇报的**LLM方向**论文，如[TOT](https://mp.weixin.qq.com/s/0EPIIPaJIUi5dgz-JolXFg)、[FOT](https://mp.weixin.qq.com/s/_avdyOmAmvOHv-1i1mTtRA)等
+- 组会向我老板汇报的**LLM方向**论文，如[思维树](https://mp.weixin.qq.com/s/0EPIIPaJIUi5dgz-JolXFg)、[LLM偏好对齐](https://mp.weixin.qq.com/s/_YkRENikoSKvhyeoFjOdOA)等
 - 前后端开发实战经验 & 小项目，如[API限流](https://mp.weixin.qq.com/s/djI7ECb3_lcM57GQQAXorg)
-- 各类有趣的工具推荐、脚本分享等干货内容，如[越狱网站](https://mp.weixin.qq.com/s/T6nWKRYW1BpEFJbeaSTbpg)
+- 各类有趣的工具推荐、脚本分享等干货内容，如[越狱网站](https://mp.weixin.qq.com/s/T6nWKRYW1BpEFJbeaSTbpg)、[问卷数据收集工具](https://mp.weixin.qq.com/s/d8yj5hXzOYpxZEPEE0coGw)
+- 社交系列：[如何判断自己/他人是很好的人](https://mp.weixin.qq.com/s/91FtaLBIMaPVpKzhI_gcyQ)、[一句话社交](https://mp.weixin.qq.com/s/Ft7cpiyVcYkn_VLC1bKbJQ)
 
 🤗我运营着一个B站帐号：**做实验的研究牲**，分享内容包括但不限于：
 
@@ -19,7 +20,7 @@
 
 
 ### 📫 链接：
-- 微信公众号：做实验的研究牲
+- 微信公众号：[做实验的研究牲](https://mp.weixin.qq.com/s/iluh6THakUs8ygbphwVJ1Q)
 - B站：[做实验的研究牲](https://space.bilibili.com/29109990)
 - 速填通：[http://sugarblack.top](http://sugarblack.top)
 - 邮箱：zemel@stu.sicnu.edu.cn
