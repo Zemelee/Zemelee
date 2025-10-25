@@ -14,15 +14,16 @@
 - 🤖深度神经网络GAN原理：[生成对抗网络](https://www.bilibili.com/video/BV1kprDYsEUs)
 
 
-💻我运营着一个网站--->[**速填通**](http://sugarblack.top)，主要用于：
+💻我运营着一个网站--->[**速填通**](http://sugarblack.top)，主要用于：快速按照自定义比例收集问卷星数据，支持修改IP、作答时长、数据信效度、满足线性回归等功能...
 
-快速按照自定义比例收集问卷星数据，支持修改IP、作答时长、数据信效度、满足线性回归等功能...
+💻我运营着另一个网站--->[**EasyStat**](http://easystat.sugarblack.top)，针对大学生开发的免费问卷数据统计分析工具，支持SPSS+AMOS核心功能，用 5% 的功能覆盖95%的分析场景...
 
 
 ### 📫 链接：
 - 微信公众号：[做实验的研究牲](https://mp.weixin.qq.com/s/iluh6THakUs8ygbphwVJ1Q)
 - B站：[做实验的研究牲](https://space.bilibili.com/29109990)
 - 速填通：[http://sugarblack.top](http://sugarblack.top)
+- EasyStat：[http://easystat.sugarblack.top](http://easystat.sugarblack.top)
 - 邮箱：zemel@stu.sicnu.edu.cn
 
 > 代码即表达
