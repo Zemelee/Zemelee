@@ -24,6 +24,5 @@
 - B站：[做实验的研究牲](https://space.bilibili.com/29109990)
 - 速填通：[http://sugarblack.top](http://sugarblack.top)
 - EasyStat：[http://easystat.sugarblack.top](http://easystat.sugarblack.top)
-- 邮箱：zemel@stu.sicnu.edu.cn
 
 > 代码即表达
